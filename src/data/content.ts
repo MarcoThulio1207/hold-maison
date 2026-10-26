@@ -12,21 +12,21 @@ export const LINKS = {
   instagram: "https://www.instagram.com/hold.architect/",
   whatsapp: "https://wa.me/351900000000",
   email: "mailto:contact@holdmaison.com",
-  linkedin: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/in/holdlianh-b-7328b538?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
 };
 
 /* --------- Images (swap freely) --------- */
 export const IMAGES = {
-  hero: "images/hero.jpg",
-  exhibitions: "images/exhibitions.jpg",
-  press: "images/press.jpg",
-  education: "images/education.jpg",
+  hero: "images/new_images/01_HERO_CASACOR_DESKTOP.webp",
+  exhibitions: "images/new_images/02_EXHIBITIONS_MIAD_DESKTOP.webp",
+  press: "images/new_images/03_PRESS_REVISTAS_DESKTOP.webp",
+  education: "images/new_images/04_EDUCATION_CATOLICA_DESKTOP.webp",
   research: "images/research.jpg",
-  architecture: "images/architecture.jpg",
-  interiors: "images/interiors.jpg",
-  objets: "images/objets.jpg",
+  architecture: "images/new_images/06_ARCHITECTURE_DESKTOP.webp",
+  interiors: "images/new_images/07_INTERIORS_COZINHA_DESKTOP.webp",
+  objets: "images/new_images/08_OBJECTS_DESKTOP.webp",
   portrait: "images/hold.jpeg",
-  raizes: "images/project-raizes.jpg",
+  raizes: "images/new_images/10_PROJECT_RAIZES_DESKTOP.webp",
 };
 
 /* --------- Type of a full dictionary --------- */

@@ -1,0 +1,5 @@
+# Define a pagina inicial do site
+DirectoryIndex index.html
+
+# Impede a listagem de arquivos das pastas
+Options -Indexes
